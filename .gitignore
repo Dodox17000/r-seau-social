@@ -1,0 +1,3 @@
+#quest ce que tu veux pas que l'on commit quand on met des choses sur Github
+/node_modules
+/config/.env
